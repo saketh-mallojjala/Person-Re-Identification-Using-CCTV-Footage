@@ -16,7 +16,7 @@ from keras.models import load_model
 from keras.layers import Input
 from PIL import Image, ImageFont, ImageDraw
 
-from yolo3.model import yolo_eval, yolo_body
+from /content/Multi-Camera-Person-Tracking-and-Re-Identification/yolo3.model import yolo_eval, yolo_body
 from yolo3.utils import letterbox_image
 
 
